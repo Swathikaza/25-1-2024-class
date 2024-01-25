@@ -1,0 +1,55 @@
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    margin: 5px 2px;
+    text-decoration:none;
+}
+.fa:hover{
+    opacity: 0.8;
+    
+}
+.fa-facebook {
+    background-color: #1d14d9;
+    color: white;
+    
+}
+.fa-twitter {
+    background-color:#2f5ebd ;
+    color: white;
+    
+}
+.fa-google {
+    background-color:#bd362f;
+    color: white;
+    
+}
+.fa-linkedin {
+    background-color:#992fbd ;
+    color: white;
+    
+}
+.fa-youtube {
+    background-color:#e63612 ;
+    color: white;
+    
+}
+.fa-instagram {
+    background-color:#bd2f78 ;
+    color: white;
+    
+}
+.fa-whatsapp {
+    background-color: #34bd2f;
+    color: white;
+    
+}
+h1{
+    background-color: aquamarine
+}
+body{
+    background-image: url(https://img.freepik.com/premium-photo/abstract-black-textured-background-with-scratches_130265-12474.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
